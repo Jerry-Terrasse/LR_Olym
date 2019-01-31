@@ -1,0 +1,1 @@
+jQuery.fn.removeWhitespace=function(){return this.contents().filter(function(){return 3==this.nodeType&&!/\S/.test(this.nodeValue)}).remove(),this};

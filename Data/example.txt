@@ -1,0 +1,137 @@
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/rio-2016/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Rio 2016
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">47.58</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/kyle-chalmers">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Kyle CHALMERS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">47.80</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/pieter-timmers">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/bel.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/bel.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Pieter TIMMERS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 bel"><div class="mask"></div></div></div>
+                    <span>BEL</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">47.85</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/nathan-adrian">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Nathan ADRIAN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/rio-2016/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>

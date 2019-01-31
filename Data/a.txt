@@ -1,0 +1,1794 @@
+<div class="col">
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/london-2012/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                London 2012
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">47.52</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/nathan-adrian">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Nathan ADRIAN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">47.53</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/james-magnussen">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">James MAGNUSSEN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">47.80</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/brent-hayden">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/can.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/can.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Brent HAYDEN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 can"><div class="mask"></div></div></div>
+                    <span>CAN</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/london-2012/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/athens-2004/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Athens 2004
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">48.17</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/pieter-van-den-hoogenband">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/H/Van_Den_Hoogenband_Pieter/Van_Den_Hoogenband_Pieter_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/H/Van_Den_Hoogenband_Pieter/Van_Den_Hoogenband_Pieter_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="VAN DEN HOOGENBAND Pieter ">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Pieter VAN DEN HOOGENBAND</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 ned"><div class="mask"></div></div></div>
+                    <span>NED</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">48.23</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/roland-schoeman">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Schoeman_Roland/Schoeman_Roland_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Schoeman_Roland/Schoeman_Roland_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="SCHOEMAN Roland">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Roland SCHOEMAN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 rsa"><div class="mask"></div></div></div>
+                    <span>RSA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">48.56</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/ian-thorpe">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/T/Thorpe_Ian/Thorpe_Ian_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/T/Thorpe_Ian/Thorpe_Ian_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="THORPE Ian">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Ian THORPE</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/athens-2004/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/atlanta-1996/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Atlanta 1996
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">48.74</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/alexander-popov">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/P/Popov_Alexander/Popov_Alexander_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/P/Popov_Alexander/Popov_Alexander_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="POPOV Alexander">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Alexander POPOV</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 rus"><div class="mask"></div></div></div>
+                    <span>RUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">48.81</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/gary-jr-hall">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Gary Jr. HALL</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">49.02</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/gustavo-borges">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/bra.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/bra.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Gustavo BORGES</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 bra"><div class="mask"></div></div></div>
+                    <span>BRA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/atlanta-1996/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/seoul-1988/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Seoul 1988
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">48.63</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/matthew-biondi">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/B/Biondi_Matthew/Biondi_Matthew_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/B/Biondi_Matthew/Biondi_Matthew_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="BIONDI Matthew ">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Matthew BIONDI</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">49.08</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/christopher-jacobs">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Christopher JACOBS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">49.62</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/stephan-caron">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/fra.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/fra.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Stephan CARON</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 fra"><div class="mask"></div></div></div>
+                    <span>FRA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/seoul-1988/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/moscow-1980/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Moscow 1980
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">50.40</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/jorg-woithe">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/gdr.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/gdr.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Jörg WOITHE</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 gdr"><div class="mask"></div></div></div>
+                    <span>GDR</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">50.91</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/per-holmertz">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/swe.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/swe.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Per HOLMERTZ</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 swe"><div class="mask"></div></div></div>
+                    <span>SWE</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">51.29</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/per-johansson">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/swe.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/swe.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Per JOHANSSON</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 swe"><div class="mask"></div></div></div>
+                    <span>SWE</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/moscow-1980/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/munich-1972/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Munich 1972
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">51.22</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/mark-spitz">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Spitz_Mark/Spitz_Mark_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Spitz_Mark/Spitz_Mark_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="SPITZ Mark">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Mark SPITZ</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">51.65</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/jerry-heidenreich">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Jerry HEIDENREICH</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">51.77</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/vladimir-bure">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/urs.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/urs.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Vladimir BURE</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 urs"><div class="mask"></div></div></div>
+                    <span>URS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/munich-1972/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/tokyo-1964/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Tokyo 1964
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">53.4</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/don-schollander">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Schollander_Donald_Arthur/Schollander_Donald_Arthur_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/S/Schollander_Donald_Arthur/Schollander_Donald_Arthur_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="SCHOLLANDER Donald Arthur">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Don SCHOLLANDER</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">53.5</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/robert-mcgregor">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/gbr.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/gbr.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Robert MCGREGOR</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 gbr"><div class="mask"></div></div></div>
+                    <span>GBR</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">54.0</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/hans-joachim-klein">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/eua.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/eua.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Hans-Joachim KLEIN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 eua"><div class="mask"></div></div></div>
+                    <span>EUA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/tokyo-1964/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/melbourne-/-stockholm-1956/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Melbourne / Stockholm 1956
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">55.4</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/jon-henricks">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Jon HENRICKS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">55.8</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/john-devitt">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">John DEVITT</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">56.7</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/gary-chapman">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/aus.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Gary CHAPMAN</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 aus"><div class="mask"></div></div></div>
+                    <span>AUS</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/melbourne-/-stockholm-1956/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/london-1948/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                London 1948
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">0:57.3</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/walter-ris">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Walter RIS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">0:57.8</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/alan-ford">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Alan FORD</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">0:58.1</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/geza-kadas">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/hun.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/hun.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Géza KÁDAS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 hun"><div class="mask"></div></div></div>
+                    <span>HUN</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/london-1948/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/los-angeles-1932/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Los Angeles 1932
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">58.2</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/yasuji-miyazaki">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/jpn.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/jpn.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Yasuji MIYAZAKI</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 jpn"><div class="mask"></div></div></div>
+                    <span>JPN</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">58.6</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/tatsugo-kawaishi">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/jpn.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/jpn.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Tatsugo KAWAISHI</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 jpn"><div class="mask"></div></div></div>
+                    <span>JPN</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">58.8</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/albert-schwartz">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Albert SCHWARTZ</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/los-angeles-1932/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/paris-1924/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Paris 1924
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">0:59.0</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/johnny-weissmuller">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/W/Weissmuller_Johnny/Weissmuller_Johnny_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/W/Weissmuller_Johnny/Weissmuller_Johnny_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="WEISSMULLER Johnny">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Johnny WEISSMULLER</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">1:01.4</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/duke-kahanamoku">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/K/Kahanamoku_Duke_Paoa/Kahanamoku_Duke_Paoa_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/K/Kahanamoku_Duke_Paoa/Kahanamoku_Duke_Paoa_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="KAHANAMOKU Duke Paoa">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Duke KAHANAMOKU</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">1:01.8</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/samuel-kahanamoku">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Samuel KAHANAMOKU</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/paris-1924/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/stockholm-1912/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                Stockholm 1912
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">1:03.4</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/duke-kahanamoku">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/K/Kahanamoku_Duke_Paoa/Kahanamoku_Duke_Paoa_mugshot.jpg?interpolation=lanczos-none&amp;resize=45:45, https://stillmed.olympic.org/media/Images/OlympicOrg/Athletes/K/Kahanamoku_Duke_Paoa/Kahanamoku_Duke_Paoa_mugshot.jpg?interpolation=lanczos-none&amp;resize=90:90 2x" alt="KAHANAMOKU Duke Paoa">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Duke KAHANAMOKU</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+                    <span class="txt">1:04.6</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/cecil-healy">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/anz.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/anz.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Cecil HEALY</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 anz"><div class="mask"></div></div></div>
+                    <span>ANZ</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+                    <span class="txt">1:05.6</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/kenneth-huszagh">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Kenneth HUSZAGH</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/stockholm-1912/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+
+    <section class="event-box">
+
+        
+        
+        
+
+        <h2>
+
+            <a href="/st-louis-1904/swimming/100m-freestyle-men">
+                <i class="icon-arrow-right"></i>
+                St Louis 1904
+            </a>
+        </h2>
+
+
+        <table class="table3 alt">
+            
+            <caption class="hide">table</caption>
+            <thead>
+                <tr>
+                        <th class="col1">Result</th>
+                        <th class="last">Participant</th>
+                </tr>
+            </thead>
+            <tbody>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal gold">
+                    <span class="num">G</span>
+                </div>
+                    <span class="txt">1:02.8</span>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/zoltan-halmay">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/hun.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/hun.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Zoltan HALMAY</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 hun"><div class="mask"></div></div></div>
+                    <span>HUN</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal silver">
+                    <span class="num">S</span>
+                </div>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/charles-daniels">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">Charles DANIELS</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+
+    <tr>
+                    <td class="col1">
+
+                <div class="medal bronze">
+                    <span class="num">B</span>
+                </div>
+
+                    </td>
+                    <td class="col2">
+
+    <div class="profile-section">
+
+        <a href="/j-scott-leary">
+            <span class="picture">
+                <span data-picture="" data-alt="image description">
+                    <picture class="picture">
+<img srcset="https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=45:45, https://stillimg.olympic.org/flags/1x1/340x340/usa.png?interpolation=lanczos-none&amp;resize=90:90 2x" alt="">
+<span class="mask"></span>
+</picture>
+
+                </span>
+            </span>
+            <div class="text-box">
+                <strong class="name">J. Scott LEARY</strong>
+                <div class="profile-row">
+                    <div class="flag-image"><div class="flag18 usa"><div class="mask"></div></div></div>
+                    <span>USA</span>
+                </div>
+            </div>
+        </a>
+    </div>
+
+                    </td>
+    </tr>
+            </tbody>
+        </table>
+            <span class="link-full"><a href="/st-louis-1904/swimming/100m-freestyle-men">Full Results →</a></span>
+    </section>
+        </div>
