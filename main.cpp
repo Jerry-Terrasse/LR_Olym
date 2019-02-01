@@ -21,6 +21,7 @@ ld hypothesis(const ld&);
 ld sqr(const ld&);
 void normalize();
 ld predict(ld);
+void load();
 int main()
 {
   register int yr=0;
@@ -34,6 +35,11 @@ int main()
     if(cmd=="train")
     {
       train();
+      continue;
+    }
+    if(cmd=="load")
+    {
+      load();
       continue;
     }
     if(cmd=="save")
@@ -55,11 +61,20 @@ int main()
     }
     if(cmd=="exit")
     {
-      cout<<"Exit.."<<endl;
+      cout<<"Exiting"<<endl;
       break;
     }
   }
   return 0;
+}
+void load()
+{
+  fin.open("result.txt");
+  getline(fin,cmd);
+  fin>>w>>b;
+  fin.close();
+  cout<<"Loaded"<<endl;
+  return;
 }
 ld predict(ld x)
 {
@@ -119,6 +134,7 @@ void save()
   fout<<w<<endl;
   fout<<b<<endl;
   fout.close();
+  cout<<"Saved"<<endl;
   return;
 }
 ld hypothesis(const ld &x)
@@ -177,6 +193,6 @@ void init()
   w=-0.817;
   t=0;
   getdata();
-  cout<<"Initialized.."<<endl;
+  cout<<"Initialized"<<endl;
   return;
 }
